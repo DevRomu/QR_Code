@@ -1,27 +1,38 @@
 
-body{
-    font-size: 15px; 
-    font-family: "Poppins", "Helvetica Neue", Helvetica, Arial;
-    background-color: hsl(212, 45%, 89%);
+
+.container{
+   max-width: 300px;
+   margin: 0 auto;
+   margin-top: 20vh;
 }
 
 #Bolded_Paragraph{
+    font-size: 15px;
     font-weight: 700;
 }
 
 #Paragraph{
+    font-size: 15px;
     font-weight: 400;
 }
 
 img{
-    border-radius: 5px;
+    width: 85%;
+    border-radius: 12px;
+}
+
+body{
+    font-size: 15px; 
+    font-family: "Poppins", "Helvetica Neue", Helvetica, Arial;
+    background-color: hsl(0, 94%, 48%);
 }
 
 @media screen and (min-width: 1440px) {
     body {
        width: 1440px;
        font-size: 15px; 
-       background-color: hsl(212, 45%, 89%);
+       /* background-color: hsl(212, 45%, 89%); */
+       background-color: hsl(0, 94%, 48%);
     }
  }
 
@@ -29,7 +40,8 @@ img{
     body {
        width: 375px;
        font-size: 15px; 
-       background-color: hsl(212, 45%, 89%);
+       /* background-color: hsl(212, 45%, 89%); */
+       background-color: hsl(0, 94%, 48%);
     }
  }
 
