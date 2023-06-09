@@ -1,6 +1,4 @@
 
-
-
 #Bolded_Paragraph{
     font-size: 15px;
     font-weight: 700;
@@ -13,6 +11,7 @@
 
 .container{
     max-width: 300px;
+    margin-bottom: 20vh;
     margin: 0 auto;
     margin-top: 20vh;
  }
@@ -30,15 +29,15 @@ img{
 body{
     font-size: 15px; 
     font-family: "Poppins", "Helvetica Neue", Helvetica, Arial;
-    background-color: hsl(0, 94%, 48%);
+    background-color: hsl(212, 45%, 89%);
 }
 
 @media screen and (min-width: 1440px) {
     body {
        width: 1440px;
        font-size: 15px; 
-       /* background-color: hsl(212, 45%, 89%); */
-       background-color: hsl(0, 94%, 48%);
+       background-color: hsl(212, 45%, 89%);
+       margin: auto;
     }
  }
 
@@ -46,8 +45,9 @@ body{
     body {
        width: 375px;
        font-size: 15px; 
-       /* background-color: hsl(212, 45%, 89%); */
-       background-color: hsl(0, 94%, 48%);
+       background-color: hsl(212, 45%, 89%);
+       margin: 20vh;
+       margin: auto;
     }
  }
 
