@@ -18,7 +18,7 @@
  }
 .card{
     background-color: white;
-    border: 1px solid #bacdd8;
+    border: 1px solid hsl(212, 45%, 89%);
     padding: 10px;
     border-radius: 10px;
 }
