@@ -12,8 +12,7 @@
 .container{
     max-width: 300px;
     margin-bottom: 20vh;
-    margin: 0 auto;
-    margin-top: 20vh;
+    margin: 12 auto;
  }
 .card{
     background-color: white;
@@ -33,6 +32,7 @@ img{
 }
 
 body{
+
     font-size: 15px; 
     font-family: "Poppins", "Helvetica Neue", Helvetica, Arial;
     background-color: hsl(212, 45%, 89%);
@@ -43,7 +43,7 @@ body{
        width: 1440px;
        font-size: 15px; 
        background-color: hsl(212, 45%, 89%);
-       margin: auto;
+       margin: 0 auto;
     }
  }
 
