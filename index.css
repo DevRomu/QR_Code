@@ -2,11 +2,13 @@
 #Bolded_Paragraph{
     font-size: 15px;
     font-weight: 700;
+    color: hsl(218, 44%, 22%);
 }
 
 #Paragraph{
     font-size: 15px;
     font-weight: 400;
+    color: hsl(220, 15%, 55%);
 }
 
 .container{
