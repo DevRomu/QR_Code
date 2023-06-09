@@ -21,6 +21,12 @@
     padding: 10px;
     border-radius: 10px;
 }
+
+.attribution{
+    position: fixed;
+    bottom: 0;
+}
+
 img{
     width: 100%;
     border-radius: 12px;
